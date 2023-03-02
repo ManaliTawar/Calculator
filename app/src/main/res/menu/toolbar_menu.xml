@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/task1"
+        android:title="@string/task_1"
+        android:icon="@drawable/ic_baseline_grid_3x3_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/task2"
+        android:title="@string/task_2"
+        android:icon="@drawable/ic_baseline_grid_4x4_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/task3"
+        android:title="@string/task_3"
+        android:icon="@drawable/ic_baseline_calculate_24"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/task4"
+        android:title="@string/task_4"
+        android:icon="@drawable/ic_baseline_movie_24"
+        app:showAsAction="ifRoom"
+        />
+</menu>

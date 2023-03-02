@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text_size">30sp</dimen>
+    <dimen name="button_margin">5dp</dimen>
+    <dimen name="poster_margin">20dp</dimen>
+</resources>
